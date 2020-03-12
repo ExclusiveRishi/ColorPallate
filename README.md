@@ -1,6 +1,6 @@
 # ColorPallate
 Random Color Palate generator.
-This app can Generate 6Different Colors and save them in localStorage.
+This app can Generate 6 Different Colors and save them in localStorage.
 
 
 Note: App is still in Development.
